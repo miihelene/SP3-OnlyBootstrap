@@ -1,4 +1,4 @@
-# SP3-ChallBootstrap
+# SP3-OnlyBootstrapP1
 [#Simplon #Bootstrap] Correction du premier exercice Bootstrap pour la P1 Référent Digital
 
 Premiere Utilisation de Bootstrap pour les apprenants de la promo 1 "Référent Digital" de Boulogne
